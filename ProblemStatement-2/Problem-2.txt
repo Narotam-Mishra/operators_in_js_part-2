@@ -1,0 +1,18 @@
+Question 2 - Describe the usage of the comma operator in JavaScript and provide an example.
+
+# Ans - In JavaScript, the comma operator ',' allows you to evaluate multiple expressions in a single statement. It evaluates each of its operands (from left to right) and returns the value of the last operand. This can be useful in situations where you want to perform multiple operations in a single line of code.
+
+# Syntax of comma operator :-
+
+expression1, expression2, expression3, ..., expressionN
+
+# working of comma operator :-
+
+# expression1, expression2, expression3, ..., expressionN: These are the individual expressions separated by commas. They are evaluated in order, but only the value of the last expression is returned.
+
+# Note - It is important to keep in mind that while the comma operator can be convenient for combining multiple expressions into one statement, it's important to use it judiciously to maintain code readability. Overuse of the comma operator can lead to code that is harder to understand and maintain.
+
+
+
+
+

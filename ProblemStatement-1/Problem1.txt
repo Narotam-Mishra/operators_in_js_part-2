@@ -1,0 +1,20 @@
+Question 1 - Explain the usage of ternary operator with syntax and  write a program to check whether the number is even
+or odd using the ternary operator.
+
+# Ans - In JavaScript, the ternary operator, also known as the conditional operator, is a way to write conditional expressions in a concise and compact form. It takes three operands and evaluates a Boolean expression. Depending on the result of the evaluation, it returns one of two values.
+
+# The syntax of the ternary operator in JavaScript is as follows :-
+
+# Syntax - 
+
+condition ? expression_if_true : expression_if_false
+
+# Working of ternary operator :-
+
+a). condition :- This is the Boolean expression that you want to evaluate. If the condition is true, the expression before the : is executed; otherwise, the expression after the : is executed.
+
+b). expression_if_true :- This is the value or expression that is returned if the condition is true.
+
+c). expression_if_false :- This is the value or expression that is returned if the condition is false.
+
+# The ternary operator is a useful tool for writing compact and readable code, especially when you need to make simple decisions based on a condition.
